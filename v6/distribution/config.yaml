@@ -1,0 +1,10 @@
+sources:
+  nvd:
+
+    type: v5
+  redhat:
+    type: v5
+  debian:
+    type: v5
+  kev:
+    type: v6
